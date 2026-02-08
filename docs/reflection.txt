@@ -1,0 +1,14 @@
+I created a simple data cleaning script in boston_population_analysis/dataset.py
+that reads the raw dataset from data/raw, performs minimal cleaning, and writes
+a processed dataset to data/processed.
+
+For the analysis step, I created a Python script at notebooks/simple_analysis.py.
+This script loads the processed dataset and gets the average of the arealand column.
+
+The output in the command shell was: 
+
+(.venv) PS C:\Users\Zannie\ds_projects\boston_population_analysis> python notebooks/simple_analysis.py
+2026-02-07 23:08:15.395 | INFO     | boston_population_analysis.config:<module>:11 - PROJ_ROOT path is: C:\Users\Zannie\ds_projects\boston_population_analysis
+2026-02-07 23:08:15.413 | INFO     | __main__:<module>:14 - Dataset loaded with 24 rows and 258 columns
+Average arealand: 2.053131483478261
+2026-02-07 23:08:15.415 | INFO     | __main__:<module>:22 - Average arealand: 2.053131483478261

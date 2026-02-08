@@ -1,0 +1,4 @@
+- Create Histograms of Key Columns
+- Determine Critical Variables for Analysis
+- Visualize the Differences Between Neighborhoods (e.g. Allstown vs. Back Bay)
+- Try to Pull More Data than 2025 to See Trends Over Time
