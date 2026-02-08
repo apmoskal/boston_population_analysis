@@ -27,7 +27,7 @@ Project on population analysis for BC.
 │                         `1.0-jqp-initial-data-exploration`.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         plant_sales_project and configuration for tools like black
+│                         boston_population_analysis and configuration for tools like black
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
@@ -39,9 +39,9 @@ Project on population analysis for BC.
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── plant_sales_project   <- Source code for use in this project.
+└── boston_population_analysis   <- Source code for use in this project.
     │
-    ├── __init__.py             <- Makes plant_sales_project a Python module
+    ├── __init__.py             <- Makes boston_population_analysis a Python module
     │
     ├── config.py               <- Store useful variables and configuration
     │
